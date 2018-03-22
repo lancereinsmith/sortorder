@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SeriesSortOperationContainers>
+    <SeriesDescriptionSortOperationContainer>
+        <!-- Coronal PD -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*COR PD*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*PD OBLI COR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*pd_BLADE_cor*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Coronal T1 (Arthrogram) -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*COR T1*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Cor T1*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T1 COR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T1 Cor*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*CUBE*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Cube*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>t1_tse_fs_cor*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Coronal T2 FS -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T2 COR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*COR T2*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*STIR COR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*COR STIR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>t2_tse_fs_cor*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T2 OBLI COR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Sagittal T2 FS -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T2 SAG*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Sag T2*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>t2_tse_fs_sag*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*SAG T2*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Axial PD FS  -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*ax pd*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Ax PD*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>pd_BLADE_tra_fs*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*AX PD*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*PD AX*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Axial T1 (Arthrogram) -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Ax T1*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*AX T1*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T1 Ax*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T1 AX*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>t1_tse_tra*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Sagittal T1 -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*SAG T1*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>t1_tse_sag*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*T1 SAG*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Sagittal T1 FS (Arthrogram) -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>t1_tse_fs_SAG*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Sagittal PD FS (Arthrogram) -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*SAG PD*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*PD SAG*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- ABER (Arthrogram) -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*ABER*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <RemainingSeries>
+            <SortOrder>INCREASING</SortOrder>
+        </RemainingSeries>
+    </SeriesDescriptionSortOperationContainer>
+    <SortOperationContainer marker="SECONDARY_CAPTURES_MODALITY">
+        <SortMacro name="SPECIAL_OBJECT_SERIES_TIME_INCREASING"/>
+    </SortOperationContainer>
+    <SortOperationContainer marker="SECONDARY_CAPTURES_EI">
+        <SortMacro name="SPECIAL_OBJECT_SERIES_TIME_INCREASING"/>
+    </SortOperationContainer>
+    <SortOperationContainer marker="LOCALIZERS">
+        <SortMacro name="SPECIAL_OBJECT_SERIES_TIME_INCREASING"/>
+    </SortOperationContainer>
+</SeriesSortOperationContainers>

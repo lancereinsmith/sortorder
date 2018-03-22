@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SeriesSortOperationContainers>
+    <SeriesDescriptionSortOperationContainer>
+        <!-- Sagittals -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Sag*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*SAG*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*sag*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Coronals -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*COR*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Cor*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*cor*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <!-- Axials -->
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Ax*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*AX*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*ax*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*TRV*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*trv*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Trv*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*tra*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <RemainingSeries>
+            <SortOrder>INCREASING</SortOrder>
+        </RemainingSeries>
+    </SeriesDescriptionSortOperationContainer>
+    <SortOperationContainer marker="SECONDARY_CAPTURES_MODALITY">
+        <SortMacro name="SPECIAL_OBJECT_SERIES_TIME_INCREASING"/>
+    </SortOperationContainer>
+    <SortOperationContainer marker="SECONDARY_CAPTURES_EI">
+        <SortMacro name="SPECIAL_OBJECT_SERIES_TIME_INCREASING"/>
+    </SortOperationContainer>
+    <SortOperationContainer marker="LOCALIZERS">
+        <SortMacro name="SPECIAL_OBJECT_SERIES_TIME_INCREASING"/>
+    </SortOperationContainer>
+</SeriesSortOperationContainers>
