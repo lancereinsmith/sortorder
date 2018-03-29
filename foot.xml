@@ -53,7 +53,15 @@
             <SortOrderExtended>INCREASING</SortOrderExtended>
         </SeriesDescriptionSortOperation>
         <SeriesDescriptionSortOperation>
+            <SeriesDescription>*TRA*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
             <SeriesDescription>*tra*</SeriesDescription>
+            <SortOrderExtended>INCREASING</SortOrderExtended>
+        </SeriesDescriptionSortOperation>
+        <SeriesDescriptionSortOperation>
+            <SeriesDescription>*Tra*</SeriesDescription>
             <SortOrderExtended>INCREASING</SortOrderExtended>
         </SeriesDescriptionSortOperation>
         <RemainingSeries>
